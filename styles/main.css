@@ -1,0 +1,31 @@
+.image {
+    font-family: 'Glegoo';
+    font-weight: 400;
+    font-size: 16px;
+    align-items: center;
+    display: flex;
+}
+
+h1 {
+    color: white;
+    font-size: 28px;
+    font-family: Georgia;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 2.5;
+    font-family: Georgia;
+    word-spacing: 0.05em;
+    letter-spacing: 0.02em;
+}
+
+p {
+    margin: 16px 0;
+    font-family: Helvetica;
+    word-spacing: 0.05em;
+    line-height: 1.4;
+}
